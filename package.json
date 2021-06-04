@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "./client/dist/bundle.js",
   "scripts": {
-    "test": "nodemon server/index.js",
+    "start": "nodemon server/index.js",
     "react-dev": "npx webpack -d --watch"
   },
   "repository": {
